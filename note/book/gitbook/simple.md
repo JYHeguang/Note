@@ -13,7 +13,7 @@ SUMMARY.md 目录
     npm install gitbook-cli -g
 
 ## 3、使用
-    * 初始化       gitbook init
-    * 预览         gitbook serve
-    * 编译         gitbook build
-    * 安装插件      gitbook install  例如：gitbook install ./
+    初始化       gitbook init
+    预览         gitbook serve
+    编译         gitbook build
+    安装插件      gitbook install  例如：gitbook install ./
