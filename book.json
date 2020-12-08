@@ -1,0 +1,23 @@
+{
+    "title": "工具人笔记",
+    "author": "jyheguang",
+    "description": "好记性不如烂笔头",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "工具人笔记": "#"
+        }
+    },
+    "plugins": [
+        "-lunr", "-search", "search-pro"
+    ],
+    "pluginsConfig": {
+    }
+}
